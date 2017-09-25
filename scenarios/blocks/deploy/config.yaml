@@ -1,0 +1,7 @@
+---
+scenarios:
+  - drupipe:blocks/deploy
+
+blocks:
+  deploy:
+    dockerImage: michaeltigr/zebra-deploy-ansible

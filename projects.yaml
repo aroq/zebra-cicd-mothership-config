@@ -1,0 +1,8 @@
+---
+projects:
+  cicd-infra:
+    configRepo: git@code.adyax.com:zebra/cicd-infra.git
+    params:
+      override: true
+      webhooksEnvironments:
+        - root

@@ -1,0 +1,7 @@
+---
+scenarios:
+  - drupipe:blocks/build
+
+blocks:
+  build:
+    dockerImage: michaeltigr/zebra-build-php-drush-docman

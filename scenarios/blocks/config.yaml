@@ -1,0 +1,7 @@
+---
+scenarios:
+  - blocks/build
+  - blocks/build/info
+  - blocks/build/release
+  - blocks/deploy
+  - blocks/operations

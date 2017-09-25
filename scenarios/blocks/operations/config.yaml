@@ -1,0 +1,7 @@
+---
+scenarios:
+  - drupipe:blocks/operations
+
+blocks:
+  operations:
+    dockerImage: michaeltigr/zebra-operations-druflow

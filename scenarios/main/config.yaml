@@ -1,0 +1,4 @@
+---
+scenarioSources:
+  drupipe:
+    repo: https://github.com/aroq/drupipe-scenarios.git
